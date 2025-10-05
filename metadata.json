@@ -2,7 +2,7 @@
   "name": "Cocopilot CSV Manager",
   "description": "Simple CSV file management system for Android applications",
   "version": "1.0.1",
-  "last_updated": "2025-01-08T10:30:00Z",
+  "last_updated": "2025-10-05T21:48:19.213869Z",
   "author": "Cocopilot Team",
   "license": "MIT",
   "repository": {
@@ -14,14 +14,8 @@
     "sample_data.csv": {
       "size": 1024,
       "hash": "sha256:fake123456789abcdef",
-      "last_modified": "2025-01-05T10:30:00Z",
+      "last_modified": "2025-10-05T21:48:19.213869Z",
       "description": "Sample CSV data for testing"
-    },
-    "README.md": {
-      "size": 2048,
-      "hash": "sha256:fake987654321fedcba",
-      "last_modified": "2025-01-05T10:30:00Z",
-      "description": "Project documentation"
     }
   },
   "dependencies": {
@@ -36,7 +30,7 @@
   ],
   "changelog": {
     "1.0.0": "Initial release",
-    "1.0.1": "Updated CSV data files (3 days later)",
+    "1.0.1": "Updated CSV data files (2025-10-05)",
     "1.0.2": "Performance optimizations"
   }
 }
